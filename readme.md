@@ -1,3 +1,10 @@
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Architecture](https://img.shields.io/badge/architecture-Hexagonal%20DDD-purple)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Made with](https://img.shields.io/badge/Made%20with-❤️-red)
+
+
 # 📚 Buku Wajib Developer — Universal Architecture Guide
 
 > **Pola:** Decoupled Architecture (Hexagonal DDD + Modular Component-Based)  
