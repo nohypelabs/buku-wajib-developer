@@ -3,7 +3,11 @@
 ![Architecture](https://img.shields.io/badge/architecture-Hexagonal%20DDD-purple)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Made with](https://img.shields.io/badge/Made%20with-❤️-red)
-
+![Stack](https://img.shields.io/badge/stack-Universal-orange)
+![Stars](https://img.shields.io/github/stars/nohypelabs/buku-wajib-developer)
+![Forks](https://img.shields.io/github/forks/nohypelabs/buku-wajib-developer)
+![Issues](https://img.shields.io/github/issues/nohypelabs/buku-wajib-developer)
+![Last Commit](https://img.shields.io/github/last-commit/nohypelabs/buku-wajib-developer)
 
 # 📚 Buku Wajib Developer — Universal Architecture Guide
 
